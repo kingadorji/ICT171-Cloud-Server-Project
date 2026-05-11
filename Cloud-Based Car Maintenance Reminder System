@@ -1,0 +1,31 @@
+Student Information:
+Name: Kinga Dorji
+Student Number: 35945183
+Unit: ICT171
+
+Website URL:
+https://carmaintenancereminder.xyz
+
+Public IP Address:
+3.27.109.18
+
+## Project Description
+This project demonstrates a cloud-based car maintenance reminder system hosted on Amazon 
+EC2 using Infrastructure as a Service (IaaS). The website allows users to view vehicle maintenance 
+information and future service reminders through a web browser. The project was deployed on an Ubuntu 
+Linux server using Nginx. A custom domain name was connected to the server and HTTPS security was enabled
+using a free SSL/TLS certificate from Let's Encrypt.
+
+The purpose of this project is to help users keep track of important vehicle tasks such as:
+-Oil Changes
+-Tire replacement
+-Brake servicing
+-General vehicle servicing
+
+## Cloud Technologies Used
+- Amazon EC2
+- Ubuntu Linux
+- Nginx Web Server
+- DNS Configuration
+- Let's Encrypt SSL/TLS
+- SSH
